@@ -21,10 +21,12 @@ Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-rhubarb'
 
+Plug 'python/black'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-unimpaired'
 Plug 'wesQ3/vim-windowswap'
 Plug 'leafgarland/typescript-vim'
+
 Plug 'jparise/vim-graphql'
 
 call plug#end()
